@@ -2,7 +2,7 @@
 
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/NTLMX.svg)](https://www.powershellgallery.com/packages/NTLMX) ![](https://img.shields.io/badge/supported%20windows%20versions-7%2F8%2F10-blue.svg)
 
-Post-exploitation NTLM Windows password hash extractor.
+Post-exploitation NTLM password hash extractor.
 
 ## Description
 
