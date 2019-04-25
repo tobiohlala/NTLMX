@@ -10,7 +10,7 @@ Extract local NTLM user password hashes from the registry handling latest AES-12
 
 **Note:** Requires to be run as `SYSTEM`.
 
-See [Invoke-AsSystem](https://github.com/off-world/ImpersonateSystem) to accomplish that from within an elevated context.
+See [ImpersonateSystem](https://github.com/off-world/ImpersonateSystem) to accomplish that from within an elevated context.
 
 ## Supported Target Systems
 So far the script has been tested to work on:
