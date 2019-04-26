@@ -1,6 +1,6 @@
 # NTLMX
 
-[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/NTLMX.svg)](https://www.powershellgallery.com/packages/NTLMX) ![](https://img.shields.io/badge/supported%20windows%20versions-7%2F8%2F10-blue.svg)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/NTLMX.svg)](https://www.powershellgallery.com/packages/NTLMX) ![](https://img.shields.io/badge/supported%20windows%20versions-7%2F8%2F10-green.svg)
 
 Post-exploitation NTLM password hash extractor.
 
