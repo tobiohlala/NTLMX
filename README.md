@@ -27,7 +27,7 @@ Install-Module -Name NTLMX
 ```
 or
 ```Shell
-git clone https://github.com/off-world/NTLMX
+git clone https://github.com/tobiohlala/NTLMX
 ```
 
 ## Usage
